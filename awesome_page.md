@@ -11,5 +11,4 @@ def something
 
 [markdown-cheat](http://markdownlivepreview.com/A)
 
-[us-working](image.png)
-
+HERE IS WHERE I MAKE A CONFLICT 1234
